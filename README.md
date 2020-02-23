@@ -1,4 +1,4 @@
-## 1701QCA Making Interaction workbook
+# 1701QCA Making Interaction workbook
 
 You will use this workbook to keep track of your progress through the course and also as a process journal to document the making of your projects.
 
@@ -7,6 +7,16 @@ You can see more resources for the course [at this link](/resources.md).
 You can use the [editor on GitHub](https://github.com/physicsdavid/1701QCA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+## Index
+
+[Inventor Kit Experiments](/kitexperiments/kitindex.md)
+Add details and photos of your inventor kit experiments to this page.
+
+[Replication Project](/replicationproject/replicationindex.md)
+Workbooks and documents
+
+
 
 ### Markdown
 
