@@ -16,7 +16,8 @@ Add details and photos of your inventor kit experiments to this page.
 [Replication Project](/replicationproject/replicationindex.md)
 Workbooks and documents
 
-
+[Prototype Project](/prototypeproject/prototypeindex.md)
+Workbooks for prototype project.
 
 ### Markdown
 
