@@ -11,12 +11,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## Index
 
 [Inventor Kit Experiments](/kitexperiments/kitindex.md)
+
 Add details and photos of your inventor kit experiments to this page.
 
 [Replication Project](/replicationproject/replicationindex.md)
+
 Workbooks and documents
 
 [Prototype Project](/prototypeproject/prototypeindex.md)
+
 Workbooks for prototype project.
 
 ### Markdown
