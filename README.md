@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## 1701QCA Making Interaction workbook
+
+You will use this workbook to keep track of your progress through the course and also as a process journal to document the making of your projects.
 
 You can use the [editor on GitHub](https://github.com/physicsdavid/1701QCA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
